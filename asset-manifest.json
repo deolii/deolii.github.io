@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.4d678d65.css",
-    "main.js": "/static/js/main.92b108de.js",
+    "main.js": "/static/js/main.81dc7fd8.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Adeola_Adelakun.jpg": "/static/media/Adeola_Adelakun.37175791b0b92959f03a.jpg",
     "index.html": "/index.html",
     "main.4d678d65.css.map": "/static/css/main.4d678d65.css.map",
-    "main.92b108de.js.map": "/static/js/main.92b108de.js.map",
+    "main.81dc7fd8.js.map": "/static/js/main.81dc7fd8.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d678d65.css",
-    "static/js/main.92b108de.js"
+    "static/js/main.81dc7fd8.js"
   ]
 }
