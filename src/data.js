@@ -1,4 +1,20 @@
 export const projects = [
+  {
+    title: "Corva",
+    subtitle: "Figma, Miro, Google Workspace Tools",
+    description:
+      "A web-based application for getting access to varieties of insurance packages.",
+    image: "./b.PNG",
+    link: "https://www.figma.com/file/7ON3K6RWquz5Lls2b61NTx/Corva-(Hi-Fi)?node-id=1075%3A2595&t=ID4Fr5BYA4eHyVhp-0",
+  },
+   {
+    title: "Checktal 2.0",
+    subtitle: "Figma, Google Workspace Tools, Prototyping",
+    description:
+      "Re-designed the interface of a website that offers thorough employee background check experience for both clients and talents, making hiring seamless",
+    image: "./f.png",
+    link: "https://www.figma.com/file/2G9tn83J1AsYD1byyyS9sT/Checktal-2.0-MockUp?node-id=12%3A3&t=CU3r0GxvcE9nuUE1-0",
+    },
     {
       title: "Portfolio",
       subtitle: "Figma",
@@ -7,23 +23,6 @@ export const projects = [
       image: "./a.PNG",
       link: "https://www.figma.com/file/Bw4VKd8dk44vzotJeXnIXm/Portfolio-Project?node-id=20%3A163&t=4zAAyetHf0MhNshD-0",
     },
-    
-    {
-      title: "Personal Website",
-      subtitle: "Figma, Google Workspace Tools",
-      description:
-        "Home Page for a personal website.",
-      image: "./c.PNG",
-      link: "https://www.figma.com/file/H7wxSlDV1QCv128cFv0s3n/My-Portfolio-Website?node-id=65%3A46&t=NHtWXOxanBORVzhf-0",
-    },
-    {
-      title: "Corva",
-      subtitle: "Figma, Miro, Google Workspace Tools",
-      description:
-        "A web-based application for getting access to varieties of insurance packages.",
-      image: "./b.PNG",
-      link: "https://www.figma.com/file/7ON3K6RWquz5Lls2b61NTx/Corva-(Hi-Fi)?node-id=1075%3A2595&t=ID4Fr5BYA4eHyVhp-0",
-    },
     {
       title: "Shuttlers Mobile Screens",
       subtitle: "Figma",
@@ -31,6 +30,14 @@ export const projects = [
         "User interface screen of Shuttlers mobile application",
       image: "./e.PNG",
       link: "https://www.figma.com/file/hNBGppHy81qWwr8bxDG6jR/Shuttlers-Re-design?node-id=43%3A37&t=z53ZCloERyChwQrJ-0",
+    },
+    {
+      title: "Personal Website",
+      subtitle: "Figma, Google Workspace Tools",
+      description:
+        "Home Page for a personal website.",
+      image: "./c.PNG",
+      link: "https://www.figma.com/file/H7wxSlDV1QCv128cFv0s3n/My-Portfolio-Website?node-id=65%3A46&t=NHtWXOxanBORVzhf-0",
     },
   ];
 

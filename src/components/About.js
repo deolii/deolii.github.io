@@ -10,6 +10,10 @@ export default function About() {
             Hi, I'm Adeola Adelakun.
             <br className="hidden lg:inline-block" />
           </h1>
+          <h2 className="title-font sm:text-3xl text-2xl mb-4 font-medium ">
+            - Product Designer
+            <br className="hidden lg:inline-block" />
+          </h2>
           <p className="mb-8 leading-relaxed">I am a detailed designer who is organized, accurate, thorough, and seeks to understand intricacies in design. My utmost priority is to contribute my quota and proffer innovative solutions that meets customer and organizational requirements.
 
 I have a strong desire to make true and measurable impact in STEM fields. I work effectively in teams, I love to collaborate with people and broaden my knowledge. 
